@@ -1,0 +1,1 @@
+*/5 * * * * /home/balogh/Documents/PHY-CAMERA2/still-script.sh
